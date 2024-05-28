@@ -12,7 +12,7 @@ Just run the following commands in the Terminal of your project directory:
 ```sh
 python main.py
 ```
-
+#te am po reee
 Then simply copy and paste the development server on your local browser
 
 <p align="center">
